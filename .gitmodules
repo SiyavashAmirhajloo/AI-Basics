@@ -1,0 +1,9 @@
+[submodule "AI_P1-FrozenLake-MDP"]
+	path = AI_P1-FrozenLake-MDP
+	url = https://github.com/SiyavashAmirhajloo/AI_P1-FrozenLake-MDP
+[submodule "AI_P2---Reinforcement_Learning"]
+	path = AI_P2---Reinforcement_Learning
+	url = https://github.com/SiyavashAmirhajloo/AI_P2---Reinforcement_Learning
+[submodule "AI_P3---Connect_Four_Using_Minimax"]
+	path = AI_P3---Connect_Four_Using_Minimax
+	url = https://github.com/SiyavashAmirhajloo/AI_P3---Connect_Four_Using_Minimax
